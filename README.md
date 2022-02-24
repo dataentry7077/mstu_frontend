@@ -1,0 +1,1 @@
+# mstu_frontend
